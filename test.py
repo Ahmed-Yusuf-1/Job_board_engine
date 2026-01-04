@@ -1,5 +1,6 @@
 def clean_text(text):
     special = "!.,()?"
+    text = text.replace("/", " ")
 
     for i in special:
         text = text.replace(i, "")
