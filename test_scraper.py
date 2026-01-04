@@ -40,3 +40,8 @@ def run():
 
 if __name__ == "__main__":
     run()
+
+
+def clean_text(text):
+    new_text = text.lower().replace("/", " ")
+
