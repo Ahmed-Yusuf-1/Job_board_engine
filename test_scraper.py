@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+import json
 
 def run():
     with sync_playwright() as p:
@@ -9,18 +10,31 @@ def run():
 
         page.goto("https://weworkremotely.com/categories/remote-python-jobs")
 
-        numofpages = page.locator(".new-listing-container").all()
+        all_jobs = []
 
-        for card in numofpages:
-            linkcount = card.locator(".listing-link--unlocked").count()
-            
-            if linkcount > 0:
+        cards = page.locator(".new-listing-container").all()
+
+        for card in cards:
+            if card.locator(".listing-link--unlocked").count() > 0:
                 title = card.locator(".new-listing__header__title").inner_text()
                 company = card.locator(".new-listing__company-name").inner_text()
                 location = card.locator(".new-listing__company-headquarters").inner_text()
                 link = card.locator(".listing-link--unlocked").get_attribute("href")
-                print(f"{title} at {company} ({location}) - Link: {link}")
 
+                job_data = {
+                    "title": title,
+                    "company": company,
+                    "location": location,
+                    "link": link
+                }
+
+                all_jobs.append(job_data)
+        
+        with open("jobs.json", "w") as file:
+            json.dump(all_jobs, file, indent=4)
+
+        
+        print("Finished! Saved jobs")
         browser.close()
 
 
