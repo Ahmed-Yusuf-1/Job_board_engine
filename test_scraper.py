@@ -3,17 +3,20 @@ import json
 
 def search(query):
     query_words = clean_text(query)
+    if not query_words:
+        return []
 
     first_word = query_words[0]
-    results = set(inverted_index.get(first_word, []))
+    first_word_tuples = inverted_index.get(first_word, [])
+
+    results = {item[0] for item in first_word_tuples}
 
     for word in query_words[1:]:
-            id = set(inverted_index.get(word, []))
-            results = results & id
+            word_tuples = inverted_index.get(word, [])
+            new_ids = {item[0] for item in word_tuples}
+
+            results = results & new_ids
     return list(results)
-
-
-
     
 
 def clean_text(text):
@@ -67,12 +70,15 @@ def run():
 
         for index, job in enumerate(all_jobs):
             words = clean_text(job['title'])
+            unique_words = set(words)
 
-            for word in words:
+
+            for word in unique_words:
+                count = words.count(word)
                 if word not in inverted_index:
-                    inverted_index[word] = [index]
+                    inverted_index[word] = [(index, count)]
                 else:
-                    inverted_index[word].append(index)
+                    inverted_index[word].append((index, count))
 
 
     while True:
@@ -85,7 +91,7 @@ def run():
 
         for index in matches:
             job = all_jobs[index]
-            print(f"{job['title']} @ {job['company']}, {job['location']} Link: {job['link']}")
+            print(f"{job['title']} @{job['company']},{job['location']} Link: {job['link']}")
             print("-" * 20)
 
 
