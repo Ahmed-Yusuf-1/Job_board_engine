@@ -50,7 +50,7 @@ def run():
                     "title": title,
                     "company": company,
                     "location": location,
-                    "link": link
+                    "link": "https://weworkremotely.com/" + link
                 }
 
                 all_jobs.append(job_data)
