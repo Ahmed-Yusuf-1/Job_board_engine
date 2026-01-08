@@ -1,153 +1,75 @@
 [
     {
-        "title": "Full Stack Product Engineer",
-        "company": "Jiga ",
-        "location": "Anywhere ",
-        "link": "/remote-jobs/jiga-full-stack-product-engineer"
+        "title": "Senior DevOps Engineer",
+        "company": "Launch Legends ",
+        "location": "[REMOTE] ",
+        "link": "/remote-jobs/launch-legends-senior-devops-engineer"
     },
     {
-        "title": "Applied AI Engineer",
-        "company": "Growth Factory Ventures ",
-        "location": "California ",
-        "link": "/remote-jobs/growth-factory-ventures-applied-ai-engineer"
+        "title": "DevOps Engineer",
+        "company": "Esprit ICT ",
+        "location": "'s Hertogenbosch, New Brunswick, 5215 MV Netherlands ",
+        "link": "/remote-jobs/esprit-ict-devops-engineer"
     },
     {
-        "title": "Software engineer",
-        "company": "Sticker Mule ",
+        "title": "DevOps Engineer",
+        "company": "ZenoCloud ",
+        "location": "New Delhi, 110034, India ",
+        "link": "/remote-jobs/zenocloud-devops-engineer"
+    },
+    {
+        "title": "Senior DevOps Engineer",
+        "company": "Marketerx ",
+        "location": "Nashville, TN ",
+        "link": "/remote-jobs/marketerx-senior-devops-engineer"
+    },
+    {
+        "title": "Senior DevOps Engineer (AWS)",
+        "company": "Proxify AB ",
+        "location": "Sweden ",
+        "link": "/remote-jobs/proxify-ab-senior-devops-engineer-aws-5"
+    },
+    {
+        "title": "Senior DevOps Engineer",
+        "company": "Lemon.io ",
         "location": "New York, NY ",
-        "link": "/remote-jobs/sticker-mule-software-engineer-1"
+        "link": "/remote-jobs/lemon-io-senior-devops-engineer-1"
     },
     {
-        "title": "Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
-        "company": "Contra ",
-        "location": "San Francisco, CA ",
-        "link": "/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql"
+        "title": "AI Trainer (Multiple Roles) [$50-$200/hr]",
+        "company": "Helix Recruit ",
+        "location": "Singapore ",
+        "link": "/remote-jobs/helix-recruit-ai-trainer-multiple-roles-50-200-hr-2"
     },
     {
-        "title": "Senior Fullstack Developer",
+        "title": "Administrative Assistant - Remote",
+        "company": "Systems Engineering, Corp ",
+        "location": "United States ",
+        "link": "/remote-jobs/systems-engineering-corp-administrative-assistant-remote"
+    },
+    {
+        "title": "FT/PT Remote AI Prompt Engineering & Evaluation - Will Train",
+        "company": "DataAnnotation.tech ",
+        "location": "New York, NY ",
+        "link": "/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train"
+    },
+    {
+        "title": "Software Engineer, Platform",
+        "company": "Speechify Inc ",
+        "location": "Florida ",
+        "link": "/remote-jobs/speechify-inc-software-engineer-platform"
+    },
+    {
+        "title": "Strategic IT Advisor",
+        "company": "NewtonX ",
+        "location": "New York, NY ",
+        "link": "/remote-jobs/newtonx-strategic-it-advisor-2"
+    },
+    {
+        "title": "Senior Machine Learning Engineer",
         "company": "Zencastr ",
         "location": "Zencastr ",
-        "link": "/remote-jobs/zencastr-senior-fullstack-developer"
-    },
-    {
-        "title": "Senior Shopify Developer (Remote + Flexible)",
-        "company": "Storetasker ",
-        "location": "Brooklyn, NY ",
-        "link": "/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
-    },
-    {
-        "title": "Senior Rails developer",
-        "company": "WodBoard ",
-        "location": "London ",
-        "link": "/remote-jobs/wodboard-senior-rails-developer-1"
-    },
-    {
-        "title": "Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
-        "company": "Enrollio ",
-        "location": "Virginia, USA ",
-        "link": "/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform"
-    },
-    {
-        "title": "Sr. Software Engineer II",
-        "company": "KFC ",
-        "location": "Plano, TX, United States ",
-        "link": "/remote-jobs/kfc-sr-software-engineer-ii"
-    },
-    {
-        "title": "Product Engineer - Data Modeling",
-        "company": "PostHog ",
-        "location": "San Francisco ",
-        "link": "/remote-jobs/posthog-product-engineer-data-modeling"
-    },
-    {
-        "title": "AI Product Engineer",
-        "company": "PostHog ",
-        "location": "San Francisco ",
-        "link": "/remote-jobs/posthog-ai-product-engineer"
-    },
-    {
-        "title": "Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
-        "company": "comparis.ch ",
-        "location": "Zuerich ",
-        "link": "/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote"
-    },
-    {
-        "title": "Senior Full Stack MERN Developer",
-        "company": "Remote Leverage ",
-        "location": "San Jose, CA ",
-        "link": "/remote-jobs/remote-leverage-senior-full-stack-mern-developer"
-    },
-    {
-        "title": "Senior Full Stack Javascript Engineer (Remote, 4-day week)",
-        "company": "Stack Influence ",
-        "location": "Miami, FL ",
-        "link": "/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week"
-    },
-    {
-        "title": "Player-Coach Engineering Team Lead",
-        "company": "Silverfin ",
-        "location": "Gent, Belgium ",
-        "link": "/remote-jobs/silverfin-player-coach-engineering-team-lead-1"
-    },
-    {
-        "title": "Experienced Ruby Product Engineer",
-        "company": "Silverfin ",
-        "location": "Gent, Belgium ",
-        "link": "/remote-jobs/silverfin-experienced-ruby-product-engineer-1"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "Stellar AI ",
-        "location": "London ",
-        "link": "/remote-jobs/stellar-ai-senior-software-engineer"
-    },
-    {
-        "title": "Full-Stack Engineer",
-        "company": "DynamiCare Health ",
-        "location": "Boston, MA, USA ",
-        "link": "/remote-jobs/dynamicare-health-full-stack-engineer"
-    },
-    {
-        "title": "Senior Fullstack Developer (Python)",
-        "company": "Proxify AB ",
-        "location": "Sweden ",
-        "link": "/remote-jobs/proxify-ab-senior-fullstack-developer-python"
-    },
-    {
-        "title": "Senior Fullstack Developer (React.js & Node.js)",
-        "company": "Proxify AB ",
-        "location": "Sweden ",
-        "link": "/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1"
-    },
-    {
-        "title": "Software Engineer, Business Experience",
-        "company": "CodeSignal ",
-        "location": "San Francisco ",
-        "link": "/remote-jobs/codesignal-software-engineer-business-experience-1"
-    },
-    {
-        "title": "Fully Remote - Founding Full-Stack Senior Engineer (UK ONLY)",
-        "company": "MyDataValue ",
-        "location": "MyDataValue ",
-        "link": "/remote-jobs/mydatavalue-fully-remote-founding-full-stack-senior-engineer-uk-only"
-    },
-    {
-        "title": "Senior Symfony Developer",
-        "company": "BBE Marketing Inc ",
-        "location": "Hurst, TX ",
-        "link": "/remote-jobs/bbe-marketing-inc-senior-symfony-developer"
-    },
-    {
-        "title": "Fullstack Engineer",
-        "company": "Sonas ",
-        "location": "Ireland ",
-        "link": "/remote-jobs/sonas-fullstack-engineer"
-    },
-    {
-        "title": "Engineering Manager / Lead Engineer",
-        "company": "Preql ",
-        "location": "New York, NY ",
-        "link": "/remote-jobs/preql-engineering-manager-lead-engineer"
+        "link": "/remote-jobs/zencastr-senior-machine-learning-engineer"
     },
     {
         "title": "Online English Teacher",
@@ -204,16 +126,34 @@
         "link": "/remote-jobs/nogigiddy-remote-data-entry-clerk-7"
     },
     {
-        "title": "FT/PT Remote AI Prompt Engineering & Evaluation - Will Train",
-        "company": "DataAnnotation.tech ",
-        "location": "New York, NY ",
-        "link": "/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train"
+        "title": "Senior User Experience (UX) Researcher",
+        "company": "Sports Reference ",
+        "location": "Philadelphia, PA, USA ",
+        "link": "/remote-jobs/sports-reference-senior-user-experience-ux-researcher"
     },
     {
-        "title": "Senior Machine Learning Engineer",
-        "company": "Zencastr ",
-        "location": "Zencastr ",
-        "link": "/remote-jobs/zencastr-senior-machine-learning-engineer"
+        "title": "Life Insurance Sales Agent",
+        "company": "Peterson Agency ",
+        "location": "Remote ",
+        "link": "/remote-jobs/peterson-agency-life-insurance-sales-agent-1"
+    },
+    {
+        "title": "Data Infrastructure Engineer",
+        "company": "Siemens Healthineers ",
+        "location": "CEY BO ",
+        "link": "/remote-jobs/siemens-healthineers-data-infrastructure-engineer"
+    },
+    {
+        "title": "Creative Agency Financial Analyst (Remote LATAM/SA) - 38815317014",
+        "company": "Somewhere ",
+        "location": "Latam, South Africa ",
+        "link": "/remote-jobs/somewhere-creative-agency-financial-analyst-remote-latam-sa-38815317014"
+    },
+    {
+        "title": "Oracle HCM Lead Technical Consultant",
+        "company": "Argano ",
+        "location": "Canada ",
+        "link": "/remote-jobs/argano-oracle-hcm-lead-technical-consultant"
     },
     {
         "title": "Remote Travel Advisor",
@@ -246,58 +186,502 @@
         "link": "/remote-jobs/posthog-technical-account-manager"
     },
     {
-        "title": "Video Game Footage Collector (get paid to play games)",
-        "company": "Grunt Games ",
-        "location": "San Francisco ",
-        "link": "/remote-jobs/grunt-games-video-game-footage-collector-get-paid-to-play-games"
+        "title": "Creative Strategist & Content Lead (Remote)",
+        "company": "Forward Push Law Firm Marketing ",
+        "location": "United States ",
+        "link": "/remote-jobs/forward-push-law-firm-marketing-creative-strategist-content-lead-remote-1"
     },
     {
-        "title": "Social Media Creator Agent",
+        "title": "Client Success Manager (Remote)",
+        "company": "Forward Push Law Firm Marketing ",
+        "location": "United States ",
+        "link": "/remote-jobs/forward-push-law-firm-marketing-client-success-manager-remote-1"
+    },
+    {
+        "title": "Digital Marketing Coach",
+        "company": "6 Figure Creative ",
+        "location": "United States ",
+        "link": "/remote-jobs/6-figure-creative-digital-marketing-coach-6"
+    },
+    {
+        "title": "Head of Corporate Sales Operations",
+        "company": "Sol\u00e9 Bicycles ",
+        "location": "Venice Beach, California ",
+        "link": "/remote-jobs/sole-bicycles-head-of-corporate-sales-operations"
+    },
+    {
+        "title": "Senior Growth Marketer (Product-Led, Full-Funnel)",
+        "company": "Positive Intelligence ",
+        "location": "California ",
+        "link": "/remote-jobs/positive-intelligence-senior-growth-marketer-product-led-full-funnel"
+    },
+    {
+        "title": "Media Specialist \u2013 Google & Facebook",
+        "company": "Dolphin Social Global ",
+        "location": "United State ",
+        "link": "/remote-jobs/dolphin-social-global-media-specialist-google-facebook-1"
+    },
+    {
+        "title": "Media Specialist \u2013 Google & Facebook",
+        "company": "Dolphin Social Global ",
+        "location": "United State ",
+        "link": "/remote-jobs/dolphin-social-global-media-specialist-google-facebook"
+    },
+    {
+        "title": "Remote Inside Sales",
+        "company": "Your Resource Group LLC ",
+        "location": "USA ",
+        "link": "/remote-jobs/your-resource-group-llc-remote-inside-sales"
+    },
+    {
+        "title": "Account Executive",
+        "company": "Arc.dev ",
+        "location": "Remote ",
+        "link": "/remote-jobs/arc-dev-account-executive"
+    },
+    {
+        "title": "Remote Sales Representative",
+        "company": "Credit Joy ",
+        "location": "Delaware ",
+        "link": "/remote-jobs/credit-joy-remote-sales-representative"
+    },
+    {
+        "title": "Inside Sales Contractor",
+        "company": "Report Owl LLC ",
+        "location": "USA ",
+        "link": "/remote-jobs/report-owl-llc-inside-sales-contractor"
+    },
+    {
+        "title": "Remote Inside Sales",
+        "company": "Report Owl LLC ",
+        "location": "USA ",
+        "link": "/remote-jobs/report-owl-llc-remote-inside-sales-3"
+    },
+    {
+        "title": "Associate Media Manager (Europe)",
+        "company": "Podean ",
+        "location": "United Kingdom ",
+        "link": "/remote-jobs/podean-associate-media-manager-europe"
+    },
+    {
+        "title": "Campaign Manager",
+        "company": "Singular ",
+        "location": "LATAM Remote ",
+        "link": "/remote-jobs/singular-campaign-manager"
+    },
+    {
+        "title": "Technical Analyst, Solutions",
+        "company": "StackAdapt ",
+        "location": "Toronto ",
+        "link": "/remote-jobs/stackadapt-technical-analyst-solutions"
+    },
+    {
+        "title": "Marketing Coordinator",
+        "company": "Assist World ",
+        "location": "Philippines / South Africa ",
+        "link": "/remote-jobs/assist-world-marketing-coordinator"
+    },
+    {
+        "title": "Performance Marketing Specialist",
+        "company": "The CareSide ",
+        "location": "Perth, Australia ",
+        "link": "/remote-jobs/the-careside-performance-marketing-specialist"
+    },
+    {
+        "title": "Demand Generation Manager - B2B SaaS (100% Remote)",
+        "company": "SelectSoftware Reviews ",
+        "location": "United States ",
+        "link": "/remote-jobs/selectsoftware-reviews-demand-generation-manager-b2b-saas-100-remote"
+    },
+    {
+        "title": "E-Commerce Coordinator (Remote \u2014 Shopify)",
+        "company": "Vitolos Essentials ",
+        "location": "Vancouver BC Canada ",
+        "link": "/remote-jobs/vitolos-essentials-e-commerce-coordinator-remote-shopify"
+    },
+    {
+        "title": "Amazon Client Account Manager (Ecommerce)",
+        "company": "Amazowl ",
+        "location": "Dublin, Ireland ",
+        "link": "/remote-jobs/amazowl-amazon-client-account-manager-ecommerce"
+    },
+    {
+        "title": "GTM and Analytics Implementation Specialist",
+        "company": "Spiralyze ",
+        "location": "Atlanta, Georgia ",
+        "link": "/remote-jobs/spiralyze-gtm-and-analytics-implementation-specialist"
+    },
+    {
+        "title": "Account Executive/Sales (Full-Cycle)",
+        "company": "dofollow.com ",
+        "location": "Delaware ",
+        "link": "/remote-jobs/dofollow-com-account-executive-sales-full-cycle"
+    },
+    {
+        "title": "Senior Wealth Coach (Consultative Sales)",
+        "company": "Tardus Wealth Strategies ",
+        "location": "Honolulu Hawaii ",
+        "link": "/remote-jobs/tardus-wealth-strategies-senior-wealth-coach-consultative-sales"
+    },
+    {
+        "title": "Crypto Graphic Designer (Spain - Remote)",
+        "company": "Token Metrics ",
+        "location": "Barcelona ",
+        "link": "/remote-jobs/token-metrics-crypto-graphic-designer-spain-remote"
+    },
+    {
+        "title": "Sr. Backend Engineer - Ad Buying",
+        "company": "MNTN ",
+        "location": "United States ",
+        "link": "/remote-jobs/mntn-sr-backend-engineer-ad-buying"
+    },
+    {
+        "title": "EU-Freelancer Kundenberater/in (m/w/d) - Inbound Mobilfunk/Prepaid - 100% Remote",
+        "company": "hey contact heroes GmbH ",
+        "location": "Germany Hamburg ",
+        "link": "/remote-jobs/hey-contact-heroes-gmbh-eu-freelancer-kundenberater-in-m-w-d-inbound-mobilfunk-prepaid-100-remote"
+    },
+    {
+        "title": "Remote Customer Support - $20/hr - United States",
+        "company": "Remote Talent Cloud ",
+        "location": "Cheyenne, WY ",
+        "link": "/remote-jobs/remote-talent-cloud-remote-customer-support-20-hr-united-states-2"
+    },
+    {
+        "title": "Customer Support Agent (Remote)",
+        "company": "CRAE GROUP LTD ",
+        "location": "Cyprus ",
+        "link": "/remote-jobs/crae-group-ltd-customer-support-agent-remote"
+    },
+    {
+        "title": "Client Support Specialist (Healthcare Facilities - B2B)",
+        "company": "Clipboard",
+        "location": "",
+        "link": "/remote-jobs/clipboard-client-support-specialist-healthcare-facilities-b2b-1"
+    },
+    {
+        "title": "Senior Account Manager",
+        "company": "Madeo ",
+        "location": "Brooklyn, NY ",
+        "link": "/remote-jobs/madeo-senior-account-manager"
+    },
+    {
+        "title": "Live Technical Support Representative \u2014 Full-Time (40 hrs/week, Sat\u2013Sun required, Tues-Wed off) \u2014 $40,000/year + Benefits \u2014 Locations: CA, ID, OR, TX, WA",
+        "company": "Porkbun ",
+        "location": "Oregon USA ",
+        "link": "/remote-jobs/porkbun-live-technical-support-representative-full-time-40-hrs-week-sat-sun-required-tues-wed-off-40-000-year"
+    },
+    {
+        "title": "Remote Customer Success Specialist",
+        "company": "NoGigiddy ",
+        "location": "Atlanta, Georgia ",
+        "link": "/remote-jobs/nogigiddy-remote-customer-success-specialist-6"
+    },
+    {
+        "title": "Technical Support Specialist",
+        "company": "Order Desk ",
+        "location": "United States ",
+        "link": "/remote-jobs/order-desk-technical-support-specialist-3"
+    },
+    {
+        "title": "Amazon Seller Central Expert (Flat Files)",
+        "company": "Amazowl ",
+        "location": "Dublin, Ireland ",
+        "link": "/remote-jobs/amazowl-amazon-seller-central-expert-flat-files-1"
+    },
+    {
+        "title": "Croatian CRM Content Localization Specialist",
+        "company": "Medier ",
+        "location": "Remote ",
+        "link": "/remote-jobs/medier-croatian-crm-content-localization-specialist"
+    },
+    {
+        "title": "CRM Localization Specialist (Hungarian language)",
+        "company": "Medier ",
+        "location": "Remote ",
+        "link": "/remote-jobs/medier-crm-localization-specialist-hungarian-language"
+    },
+    {
+        "title": "Clinical Specialist CRM - New Brunswick, NJ",
+        "company": "Medtronic ",
+        "location": "New Brunswick, New Jersey, United States of America ",
+        "link": "/remote-jobs/medtronic-clinical-specialist-crm-new-brunswick-nj"
+    },
+    {
+        "title": "Initiativbewerbung",
+        "company": "combit ",
+        "location": "Konstanz, Full Remote Deutschland ",
+        "link": "/remote-jobs/combit-initiativbewerbung"
+    },
+    {
+        "title": "Japanese language proficiency-CRM Tools--WFH",
+        "company": "Sana Search International ",
+        "location": "Gurgaon ",
+        "link": "/remote-jobs/sana-search-international-japanese-language-proficiency-crm-tools-wfh-1"
+    },
+    {
+        "title": "CRM Manager",
+        "company": "Goodjuju Marketing ",
+        "location": "Lehi, UT USA ",
+        "link": "/remote-jobs/goodjuju-marketing-crm-manager"
+    },
+    {
+        "title": "Remote Customer Support Representative (Honduras)",
+        "company": "Flight CX ",
+        "location": "Remote ",
+        "link": "/remote-jobs/flight-cx-remote-customer-support-representative-honduras"
+    },
+    {
+        "title": "Remote Travel Booking Agent",
+        "company": "HB Travels ",
+        "location": "Massachusetts ",
+        "link": "/remote-jobs/hb-travels-remote-travel-booking-agent"
+    },
+    {
+        "title": "Customer Support and Help Desk Leader",
+        "company": "The Land Administration Company ",
+        "location": "Canada ",
+        "link": "/remote-jobs/the-land-administration-company-customer-support-and-help-desk-leader"
+    },
+    {
+        "title": "Customer Success Representative",
+        "company": "Subbly ",
+        "location": "Edinburgh, Scotland ",
+        "link": "/remote-jobs/subbly-customer-success-representative"
+    },
+    {
+        "title": "US ONLY! Learn on your time!! - Customer Support! $16+/hour - Weekly Pay",
+        "company": "Omni Interactions ",
+        "location": "Texas ",
+        "link": "/remote-jobs/omni-interactions-us-only-learn-on-your-time-customer-support-16-hour-weekly-pay"
+    },
+    {
+        "title": "Sr. Customer Love Engineer - EMEA",
+        "company": "Chili Piper ",
+        "location": "Remote First ",
+        "link": "/remote-jobs/chili-piper-sr-customer-love-engineer-emea"
+    },
+    {
+        "title": "Invoice Clerk",
+        "company": "Dram Industry LLc ",
+        "location": "TX, USA ",
+        "link": "/remote-jobs/dram-industry-llc-invoice-clerk"
+    },
+    {
+        "title": "Technical Customer Support (English + [Other Language], UTC-4 or UTC-3)",
+        "company": "Crisp ",
+        "location": "Nantes, France ",
+        "link": "/remote-jobs/crisp-technical-customer-support-english-other-language-utc-4-or-utc-3"
+    },
+    {
+        "title": "Senior Fullstack Developer",
+        "company": "Zencastr ",
+        "location": "Zencastr ",
+        "link": "/remote-jobs/zencastr-senior-fullstack-developer"
+    },
+    {
+        "title": "Full Stack Product Engineer",
+        "company": "Jiga ",
+        "location": "Anywhere ",
+        "link": "/remote-jobs/jiga-full-stack-product-engineer"
+    },
+    {
+        "title": "Applied AI Engineer",
+        "company": "Growth Factory Ventures ",
+        "location": "California ",
+        "link": "/remote-jobs/growth-factory-ventures-applied-ai-engineer"
+    },
+    {
+        "title": "Software engineer",
+        "company": "Sticker Mule ",
+        "location": "New York, NY ",
+        "link": "/remote-jobs/sticker-mule-software-engineer-1"
+    },
+    {
+        "title": "Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
+        "company": "Contra ",
+        "location": "San Francisco, CA ",
+        "link": "/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql"
+    },
+    {
+        "title": "Senior Independent Software Developer ($90-$170/hr)",
+        "company": "A.Team ",
+        "location": "NYC, SF, and TLV ",
+        "link": "/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
+    },
+    {
+        "title": "Backend / Web Application Developer (Cloud & SaaS)",
+        "company": "ImFusion ",
+        "location": "Munich, remote ",
+        "link": "/remote-jobs/imfusion-backend-web-application-developer-cloud-saas"
+    },
+    {
+        "title": "Project Manager - Latin America",
+        "company": "Azumo ",
+        "location": "Brazil ",
+        "link": "/remote-jobs/azumo-project-manager-latin-america"
+    },
+    {
+        "title": "PHP Web Application Developer",
+        "company": "EBG ",
+        "location": "Miami, FL, USA ",
+        "link": "/remote-jobs/ebg-php-web-application-developer"
+    },
+    {
+        "title": "Ba/Qa",
+        "company": "Applied Imagination ",
+        "location": "Atlanta, GA ",
+        "link": "/remote-jobs/applied-imagination-ba-qa"
+    },
+    {
+        "title": "PHP Web Application Developer",
+        "company": "EBG ",
+        "location": "Miami, FL, USA ",
+        "link": "/remote-jobs/ebg-php-web-application-developer"
+    },
+    {
+        "title": "Javascript Fullstack Engineer - Senior",
+        "company": "Lumenalta ",
+        "location": "New York ",
+        "link": "/remote-jobs/lumenalta-javascript-fullstack-engineer-senior"
+    },
+    {
+        "title": "Senior Shopify Developer (Remote + Flexible)",
+        "company": "Storetasker ",
+        "location": "Brooklyn, NY ",
+        "link": "/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
+    },
+    {
+        "title": "Senior Rails developer",
+        "company": "WodBoard ",
+        "location": "London ",
+        "link": "/remote-jobs/wodboard-senior-rails-developer-1"
+    },
+    {
+        "title": "Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
+        "company": "Enrollio ",
+        "location": "Virginia, USA ",
+        "link": "/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform"
+    },
+    {
+        "title": "Sr. Software Engineer II",
+        "company": "KFC ",
+        "location": "Plano, TX, United States ",
+        "link": "/remote-jobs/kfc-sr-software-engineer-ii"
+    },
+    {
+        "title": "Product Engineer - Data Modeling",
+        "company": "PostHog",
+        "location": "San Francisco ",
+        "link": "/remote-jobs/posthog-product-engineer-data-modeling"
+    },
+    {
+        "title": "AI Product Engineer",
+        "company": "PostHog ",
+        "location": "San Francisco ",
+        "link": "/remote-jobs/posthog-ai-product-engineer"
+    },
+    {
+        "title": "Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
+        "company": "comparis.ch ",
+        "location": "Zuerich ",
+        "link": "/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote"
+    },
+    {
+        "title": "Senior Full Stack MERN Developer",
+        "company": "Remote Leverage ",
+        "location": "San Jose, CA ",
+        "link": "/remote-jobs/remote-leverage-senior-full-stack-mern-developer"
+    },
+    {
+        "title": "Senior Full Stack Javascript Engineer (Remote, 4-day week)",
+        "company": "Stack Influence ",
+        "location": "Miami, FL ",
+        "link": "/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week"
+    },
+    {
+        "title": "Player-Coach Engineering Team Lead",
+        "company": "Silverfin ",
+        "location": "Gent, Belgium ",
+        "link": "/remote-jobs/silverfin-player-coach-engineering-team-lead-1"
+    },
+    {
+        "title": "Experienced Ruby Product Engineer",
+        "company": "Silverfin ",
+        "location": "Gent, Belgium ",
+        "link": "/remote-jobs/silverfin-experienced-ruby-product-engineer-1"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Stellar AI ",
+        "location": "London ",
+        "link": "/remote-jobs/stellar-ai-senior-software-engineer"
+    },
+    {
+        "title": "Full-Stack Engineer",
+        "company": "DynamiCare Health ",
+        "location": "Boston, MA, USA ",
+        "link": "/remote-jobs/dynamicare-health-full-stack-engineer"
+    },
+    {
+        "title": "Software Engineer, iOS Core Product",
+        "company": "Speechify Inc ",
+        "location": "Florida ",
+        "link": "/remote-jobs/speechify-inc-software-engineer-ios-core-product"
+    },
+    {
+        "title": "Software Engineer, macOS Core Product",
+        "company": "Speechify Inc ",
+        "location": "Florida ",
+        "link": "/remote-jobs/speechify-inc-software-engineer-macos-core-product"
+    },
+    {
+        "title": "Website Developer",
+        "company": "Perry Homes ",
+        "location": "Houston, Texas, United States ",
+        "link": "/remote-jobs/perry-homes-website-developer"
+    },
+    {
+        "title": "Web Developer (Remote- Canada and/or United States )",
+        "company": "Sangoma ",
+        "location": "Toronto, Ontario, Canada ",
+        "link": "/remote-jobs/sangoma-web-developer-remote-canada-and-or-united-states"
+    },
+    {
+        "title": "Senior Trainer",
+        "company": "AHU Technologies ",
+        "location": "Washington, DC 20009 ",
+        "link": "/remote-jobs/ahu-technologies-senior-trainer"
+    },
+    {
+        "title": "Sales Representative \u2013 Fire Protection Inspections - Columbus, GA",
+        "company": "AHU Technologies ",
+        "location": "Washington, DC 20009 ",
+        "link": "/remote-jobs/ahu-technologies-sales-representative-fire-protection-inspections-columbus-ga"
+    },
+    {
+        "title": "Frontend Engineer",
+        "company": "Mobena",
+        "location": "New York, NY ",
+        "link": "/remote-jobs/mobena-frontend-engineer"
+    },
+    {
+        "title": "Senior Frontend Developer",
+        "company": "Sanctuary Computer ",
+        "location": "New York City ",
+        "link": "/remote-jobs/sanctuary-computer-senior-frontend-developer"
+    },
+    {
+        "title": "React Native Developer",
         "company": "Toptal ",
         "location": "Remote ",
-        "link": "/remote-jobs/toptal-social-media-creator-agent"
+        "link": "/remote-jobs/toptal-react-native-developer"
     },
     {
-        "title": "Business & Personal Development Manager - Remote",
-        "company": "Wombat Mindset ",
-        "location": "Australia ",
-        "link": "/remote-jobs/wombat-mindset-business-personal-development-manager-remote"
-    },
-    {
-        "title": "Virtual Assistant (Bilingual with Vietnamese and English Required)",
-        "company": "The Lawgical Firm, P.A. ",
-        "location": "Orlando, FL ",
-        "link": "/remote-jobs/the-lawgical-firm-p-a-virtual-assistant-bilingual-with-vietnamese-and-english-required"
-    },
-    {
-        "title": "The SafetyWing Digital Nomad Residency",
-        "company": "SafetyWing ",
-        "location": "California ",
-        "link": "/remote-jobs/safetywing-the-safetywing-digital-nomad-residency"
-    },
-    {
-        "title": "Search Quality Rater - English (India)",
-        "company": "Welo Data ",
-        "location": "New York, NY ",
-        "link": "/remote-jobs/welo-data-search-quality-rater-english-india"
-    },
-    {
-        "title": "Internet Search Quality Rater - English (US)",
-        "company": "Welo Data ",
-        "location": "New York, NY ",
-        "link": "/remote-jobs/welo-data-internet-search-quality-rater-english-us-2"
-    },
-    {
-        "title": "Security Analyst for Infected Websites (Contract)",
-        "company": "Defiant, Inc. ",
-        "location": "Seattle, WA ",
-        "link": "/remote-jobs/defiant-inc-security-analyst-for-infected-websites-contract"
-    },
-    {
-        "title": "Senior Network Architect (US Only)",
-        "company": "Lincoln Freedom Group, LLC ",
-        "location": "Idaho, USA ",
-        "link": "/remote-jobs/lincoln-freedom-group-llc-senior-network-architect-us-only"
+        "title": "Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
+        "company": "LLCU University ",
+        "location": "Florida ",
+        "link": "/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist"
     },
     {
         "title": "Senior Backend Engineer - Full Remote",
@@ -366,232 +750,40 @@
         "link": "/remote-jobs/nova-full-stack-developer"
     },
     {
-        "title": "Senior Video Editor (Remote)",
-        "company": "Social Cuts ",
-        "location": "Austin, Texas ",
-        "link": "/remote-jobs/social-cuts-senior-video-editor-remote"
-    },
-    {
-        "title": "Senior Growth Designer (Remote)",
-        "company": "Hospitable ",
-        "location": "Remote, Oregon, United States ",
-        "link": "/remote-jobs/hospitable-senior-growth-designer-remote"
-    },
-    {
-        "title": "Motion Graphic Designer (GFX)",
-        "company": "The Block ",
-        "location": "Remote in Europe ",
-        "link": "/remote-jobs/the-block-motion-graphic-designer-gfx"
-    },
-    {
-        "title": "Virtual Design & Construction Modeler",
-        "company": "Miller Electric Company ",
-        "location": "US-VA-Richmond ",
-        "link": "/remote-jobs/miller-electric-company-virtual-design-construction-modeler"
-    },
-    {
-        "title": "Preconstruction Design Phase Manager I- Solar",
-        "company": "Mortenson ",
-        "location": "MN, United States ",
-        "link": "/remote-jobs/mortenson-preconstruction-design-phase-manager-i-solar"
-    },
-    {
-        "title": "Technical Game Designer",
-        "company": "thatgamecompany ",
-        "location": "Remote - US ",
-        "link": "/remote-jobs/thatgamecompany-technical-game-designer"
-    },
-    {
-        "title": "AI Creative Operator Slideshows & Short-Form Content",
-        "company": "ripplehaus ",
-        "location": "ripplehaus ",
-        "link": "/remote-jobs/ripplehaus-ai-creative-operator-slideshows-short-form-content"
-    },
-    {
-        "title": "Senior Product Designer and UX Researcher (Remote, 4-day week)",
-        "company": "Stack Influence ",
-        "location": "Miami, FL ",
-        "link": "/remote-jobs/stack-influence-senior-product-designer-and-ux-researcher-remote-4-day-week"
-    },
-    {
-        "title": "UI/UX Designer",
-        "company": "Spiralyze ",
-        "location": "Atlanta, Georgia ",
-        "link": "/remote-jobs/spiralyze-ui-ux-designer-2"
-    },
-    {
-        "title": "Senior UI Designer",
-        "company": "Perry Street Software ",
-        "location": "Miami Beach, FL ",
-        "link": "/remote-jobs/perry-street-software-senior-ui-designer"
-    },
-    {
-        "title": "Senior Brand Designer",
-        "company": "XXIX ",
-        "location": "New York City ",
-        "link": "/remote-jobs/xxix-senior-brand-designer"
-    },
-    {
-        "title": "Graphic Designer/Social Media Manager",
-        "company": "BBE Marketing Inc ",
-        "location": "Hurst, TX ",
-        "link": "/remote-jobs/bbe-marketing-inc-graphic-designer-social-media-manager"
-    },
-    {
-        "title": "Media Specialist \u2013 Google & Facebook",
-        "company": "Dolphin Social Global ",
-        "location": "United State ",
-        "link": "/remote-jobs/dolphin-social-global-media-specialist-google-facebook-1"
-    },
-    {
-        "title": "Media Specialist \u2013 Google & Facebook",
-        "company": "Dolphin Social Global ",
-        "location": "United State ",
-        "link": "/remote-jobs/dolphin-social-global-media-specialist-google-facebook"
-    },
-    {
-        "title": "Remote Inside Sales",
-        "company": "Your Resource Group LLC ",
-        "location": "USA ",
-        "link": "/remote-jobs/your-resource-group-llc-remote-inside-sales"
-    },
-    {
-        "title": "Client Success Manager (Remote)",
-        "company": "Forward Push Law Firm Marketing ",
-        "location": "United States ",
-        "link": "/remote-jobs/forward-push-law-firm-marketing-client-success-manager-remote"
-    },
-    {
-        "title": "Creative Strategist & Content Lead (Remote)",
-        "company": "Forward Push Law Firm Marketing ",
-        "location": "United States ",
-        "link": "/remote-jobs/forward-push-law-firm-marketing-creative-strategist-content-lead-remote"
-    },
-    {
-        "title": "Account Executive",
-        "company": "Arc.dev ",
-        "location": "Remote ",
-        "link": "/remote-jobs/arc-dev-account-executive"
-    },
-    {
-        "title": "Remote Sales Representative",
-        "company": "Credit Joy ",
-        "location": "Delaware ",
-        "link": "/remote-jobs/credit-joy-remote-sales-representative"
-    },
-    {
-        "title": "Inside Sales Contractor",
-        "company": "Report Owl LLC ",
-        "location": "USA ",
-        "link": "/remote-jobs/report-owl-llc-inside-sales-contractor"
-    },
-    {
-        "title": "Remote Inside Sales",
-        "company": "Report Owl LLC ",
-        "location": "USA ",
-        "link": "/remote-jobs/report-owl-llc-remote-inside-sales-3"
-    },
-    {
-        "title": "Account Executive/Sales (Full-Cycle)",
-        "company": "dofollow.com ",
-        "location": "Delaware ",
-        "link": "/remote-jobs/dofollow-com-account-executive-sales-full-cycle"
-    },
-    {
-        "title": "Senior Wealth Coach (Consultative Sales)",
-        "company": "Tardus Wealth Strategies ",
-        "location": "Honolulu Hawaii ",
-        "link": "/remote-jobs/tardus-wealth-strategies-senior-wealth-coach-consultative-sales"
-    },
-    {
-        "title": "Consultant SEO / GEO Senior - Full Remote f/h",
-        "company": "hyffen ",
-        "location": "15 Rue des Halles, 75001 Paris, France ",
-        "link": "/remote-jobs/hyffen-consultant-seo-geo-senior-full-remote-f-h"
-    },
-    {
-        "title": "B2B Marketing Strategy Manager",
-        "company": "Power Digital ",
-        "location": "Remote - Honduras ",
-        "link": "/remote-jobs/power-digital-b2b-marketing-strategy-manager"
-    },
-    {
-        "title": "Crypto Graphic Designer (Spain - Remote)",
-        "company": "Token Metrics ",
-        "location": "Barcelona ",
-        "link": "/remote-jobs/token-metrics-crypto-graphic-designer-spain-remote"
-    },
-    {
-        "title": "Campaign Manager",
-        "company": "Kyra ",
-        "location": "Germany ",
-        "link": "/remote-jobs/kyra-campaign-manager"
-    },
-    {
-        "title": "Sr. Backend Engineer - Ad Buying",
-        "company": "MNTN ",
-        "location": "United States ",
-        "link": "/remote-jobs/mntn-sr-backend-engineer-ad-buying"
-    },
-    {
-        "title": "Paid Media Specialist - Google & Facebook",
-        "company": "D-Social Global ",
-        "location": "United State ",
-        "link": "/remote-jobs/d-social-global-paid-media-specialist-google-facebook"
-    },
-    {
-        "title": "Inbound/Outbound Sales - Remote - English language",
-        "company": "Golf Carts of ATX ",
-        "location": "Austin, TX ",
-        "link": "/remote-jobs/golf-carts-of-atx-inbound-outbound-sales-remote-english-language-1"
-    },
-    {
-        "title": "Marketing Operations Manager (Embedded, DTC & Community)",
-        "company": "TOTYM ",
-        "location": "North Carolina, United States ",
-        "link": "/remote-jobs/totym-marketing-operations-manager-embedded-dtc-community"
-    },
-    {
-        "title": "Blog Writer",
-        "company": "Buy Shrooms ",
-        "location": "Vancouver, Canada ",
-        "link": "/remote-jobs/buy-shrooms-blog-writer"
-    },
-    {
-        "title": "Paid Media Strategist (Google & Meta) \u2013 Part-Time, LATAM (Strategy-First Role)",
-        "company": "Tulsa Internet Marketing ",
-        "location": "Tulsa, Okahoma ",
-        "link": "/remote-jobs/tulsa-internet-marketing-paid-media-strategist-google-meta-part-time-latam-strategy-first-role"
-    },
-    {
-        "title": "Senior Amazon Brand Manager",
-        "company": "GNO Partners ",
-        "location": "USA ",
-        "link": "/remote-jobs/gno-partners-senior-amazon-brand-manager-1"
-    },
-    {
-        "title": "Remote Virtual Assistant for US House Cleaning Company",
-        "company": "Debbies House Cleaning ",
-        "location": "USA ",
-        "link": "/remote-jobs/debbies-house-cleaning-remote-virtual-assistant-for-us-house-cleaning-company"
-    },
-    {
-        "title": "Social Media Manager",
-        "company": "Community Phone ",
-        "location": "San Francisco ",
-        "link": "/remote-jobs/community-phone-social-media-manager"
-    },
-    {
-        "title": "Senior Content Marketer (Enterprise/Campaigns)",
-        "company": "Animalz ",
-        "location": "San Diego, California ",
-        "link": "/remote-jobs/animalz-senior-content-marketer-enterprise-campaigns-1"
-    },
-    {
         "title": "E-commerce Operations Manager",
         "company": "Sana Vita Operations ",
         "location": "Austin, Texas ",
         "link": "/remote-jobs/sana-vita-operations-e-commerce-operations-manager"
+    },
+    {
+        "title": "Payroll Specialist",
+        "company": "Charter Impact ",
+        "location": "Boise, ID ",
+        "link": "/remote-jobs/charter-impact-payroll-specialist"
+    },
+    {
+        "title": "Financial Advisor Series 7, 65 or 66",
+        "company": "San Blas Securities ",
+        "location": "Remote ",
+        "link": "/remote-jobs/san-blas-securities-financial-advisor-series-7-65-or-66"
+    },
+    {
+        "title": "[Japan] Global SAP BW Architect and Business Partner (Finance, Legal, HR)",
+        "company": "Santen ",
+        "location": "\u5927\u962a\u5e02, \u65e5\u672c ",
+        "link": "/remote-jobs/santen-japan-global-sap-bw-architect-and-business-partner-finance-legal-hr"
+    },
+    {
+        "title": "Manager, Salesforce Engineering",
+        "company": "GreatAmerica ",
+        "location": "REMOTE- Dallas, TX ",
+        "link": "/remote-jobs/greatamerica-manager-salesforce-engineering"
+    },
+    {
+        "title": "Financial Controller",
+        "company": "Oceans ",
+        "location": "Sri Lanka ",
+        "link": "/remote-jobs/oceans-financial-controller"
     },
     {
         "title": "Projektov\u00fd mana\u017eer/ka (m/w/d) (7)",
@@ -630,12 +822,6 @@
         "link": "/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner"
     },
     {
-        "title": "Office Manager",
-        "company": "Ivory Pines Cleaning ",
-        "location": "Raleigh, NC, USA ",
-        "link": "/remote-jobs/ivory-pines-cleaning-office-manager"
-    },
-    {
         "title": "Accountant (Europe - Remote)",
         "company": "Hospitable ",
         "location": "Remote, Oregon, United States ",
@@ -654,148 +840,148 @@
         "link": "/remote-jobs/maverick-trading-remote-forex-crypto-trader-funded-account-program"
     },
     {
-        "title": "Strategic Finance & GTM Data Lead",
-        "company": "Qase ",
-        "location": "Delaware, USA ",
-        "link": "/remote-jobs/qase-strategic-finance-gtm-data-lead"
+        "title": "Senior Product Designer, Growth (Remote)",
+        "company": "Hospitable ",
+        "location": "Remote, Oregon, United States ",
+        "link": "/remote-jobs/hospitable-senior-product-designer-growth-remote"
     },
     {
-        "title": "Director of Account Management",
-        "company": "Door & Gate Domination ",
-        "location": "US ",
-        "link": "/remote-jobs/door-gate-domination-director-of-account-management"
+        "title": "Media Specialist - Google & Facebook",
+        "company": "Dolphin Social Global ",
+        "location": "United State ",
+        "link": "/remote-jobs/dolphin-social-global-media-specialist-google-facebook-2"
     },
     {
-        "title": "Client Support Specialist (Healthcare Facilities - B2B)",
-        "company": "Clipboard ",
-        "location": "",
-        "link": "/remote-jobs/clipboard-client-support-specialist-healthcare-facilities-b2b-1"
+        "title": "Senior Video Editor (Remote)",
+        "company": "Social Cuts ",
+        "location": "Austin, Texas ",
+        "link": "/remote-jobs/social-cuts-senior-video-editor-remote"
     },
     {
-        "title": "Senior Account Manager",
-        "company": "Madeo ",
-        "location": "Brooklyn, NY ",
-        "link": "/remote-jobs/madeo-senior-account-manager"
+        "title": "Disruption Designer",
+        "company": "steampunk ",
+        "location": "McLean, Virginia, United States ",
+        "link": "/remote-jobs/steampunk-disruption-designer"
     },
     {
-        "title": "Live Technical Support Representative \u2014 Full-Time (40 hrs/week, Sat\u2013Sun required, Tues-Wed off) \u2014 $40,000/year + Benefits \u2014 Locations: CA, ID, OR, TX, WA",
-        "company": "Porkbun ",
-        "location": "Oregon USA ",
-        "link": "/remote-jobs/porkbun-live-technical-support-representative-full-time-40-hrs-week-sat-sun-required-tues-wed-off-40-000-year"
+        "title": "Senior Product Manager",
+        "company": "Lillio ",
+        "location": "Toronto ",
+        "link": "/remote-jobs/lillio-senior-product-manager"
     },
     {
-        "title": "Remote Customer Success Specialist",
-        "company": "NoGigiddy ",
+        "title": "Civil Design Manager - Site Design",
+        "company": "Olsson ",
+        "location": "Dallas, TX; Fort Worth, TX; Texas - Remote ",
+        "link": "/remote-jobs/olsson-civil-design-manager-site-design"
+    },
+    {
+        "title": "Senior Mechanical Designer 1 - Nuclear Power",
+        "company": "Sargent & Lundy ",
+        "location": "Remote, United States ",
+        "link": "/remote-jobs/sargent-lundy-senior-mechanical-designer-1-nuclear-power"
+    },
+    {
+        "title": "Creative (Content Design)",
+        "company": "Superside ",
+        "location": "Global ",
+        "link": "/remote-jobs/superside-creative-content-design"
+    },
+    {
+        "title": "User Experience (UX) Designer",
+        "company": "Sports Reference ",
+        "location": "Philadelphia, PA, USA ",
+        "link": "/remote-jobs/sports-reference-user-experience-ux-designer"
+    },
+    {
+        "title": "Lead Product Designer",
+        "company": "Rare Days ",
+        "location": "Vancouver ",
+        "link": "/remote-jobs/rare-days-lead-product-designer"
+    },
+    {
+        "title": "appflame - Middle / Senior Product Manager",
+        "company": "appflame ",
+        "location": "Ukraine ",
+        "link": "/remote-jobs/appflame-appflame-middle-senior-product-manager"
+    },
+    {
+        "title": "UI Product Designer (Visual Focus) - regular/senior",
+        "company": "Miquido ",
+        "location": "Krak\u00f3w, Poland ",
+        "link": "/remote-jobs/miquido-ui-product-designer-visual-focus-regular-senior"
+    },
+    {
+        "title": "Product Designer",
+        "company": "Duna ",
+        "location": "Remote ",
+        "link": "/remote-jobs/duna-product-designer"
+    },
+    {
+        "title": "IS Mechanical Designer II",
+        "company": "Enfra ",
+        "location": "US-NC-Charlotte ",
+        "link": "/remote-jobs/enfra-is-mechanical-designer-ii"
+    },
+    {
+        "title": "Lead Level Designer",
+        "company": "Eleventh Hour Games ",
+        "location": "Dallas, Texas, United States ",
+        "link": "/remote-jobs/eleventh-hour-games-lead-level-designer"
+    },
+    {
+        "title": "Technical Game Designer",
+        "company": "thatgamecompany ",
+        "location": "Remote - US ",
+        "link": "/remote-jobs/thatgamecompany-technical-game-designer"
+    },
+    {
+        "title": "Preconstruction Design Phase Manager I- Solar",
+        "company": "Mortenson ",
+        "location": "MN, United States ",
+        "link": "/remote-jobs/mortenson-preconstruction-design-phase-manager-i-solar"
+    },
+    {
+        "title": "Virtual Design & Construction Modeler",
+        "company": "Miller Electric Company ",
+        "location": "US-VA-Richmond ",
+        "link": "/remote-jobs/miller-electric-company-virtual-design-construction-modeler"
+    },
+    {
+        "title": "Motion Graphic Designer (GFX)",
+        "company": "The Block ",
+        "location": "Remote in Europe ",
+        "link": "/remote-jobs/the-block-motion-graphic-designer-gfx"
+    },
+    {
+        "title": "AI Creative Operator Slideshows & Short-Form Content",
+        "company": "ripplehaus ",
+        "location": "ripplehaus ",
+        "link": "/remote-jobs/ripplehaus-ai-creative-operator-slideshows-short-form-content"
+    },
+    {
+        "title": "Senior Product Designer and UX Researcher (Remote, 4-day week)",
+        "company": "Stack Influence ",
+        "location": "Miami, FL ",
+        "link": "/remote-jobs/stack-influence-senior-product-designer-and-ux-researcher-remote-4-day-week"
+    },
+    {
+        "title": "UI/UX Designer",
+        "company": "Spiralyze ",
         "location": "Atlanta, Georgia ",
-        "link": "/remote-jobs/nogigiddy-remote-customer-success-specialist-6"
+        "link": "/remote-jobs/spiralyze-ui-ux-designer-2"
     },
     {
-        "title": "Customer Support Agent (Remote)",
-        "company": "CRAE GROUP LTD ",
-        "location": "Cyprus ",
-        "link": "/remote-jobs/crae-group-ltd-customer-support-agent-remote"
+        "title": "Senior UI Designer",
+        "company": "Perry Street Software ",
+        "location": "Miami Beach, FL ",
+        "link": "/remote-jobs/perry-street-software-senior-ui-designer"
     },
     {
-        "title": "Amazon Seller Central Expert (Flat Files)",
-        "company": "Amazowl ",
-        "location": "Dublin, Ireland ",
-        "link": "/remote-jobs/amazowl-amazon-seller-central-expert-flat-files-1"
-    },
-    {
-        "title": "Japanese language proficiency-CRM Tools--WFH",
-        "company": "Sana Search International ",
-        "location": "Gurgaon ",
-        "link": "/remote-jobs/sana-search-international-japanese-language-proficiency-crm-tools-wfh-1"
-    },
-    {
-        "title": "Initiativbewerbung",
-        "company": "combit ",
-        "location": "Konstanz, Full Remote Deutschland ",
-        "link": "/remote-jobs/combit-initiativbewerbung"
-    },
-    {
-        "title": "Clinical Specialist CRM - New Brunswick, NJ",
-        "company": "Medtronic ",
-        "location": "New Brunswick, New Jersey, United States of America ",
-        "link": "/remote-jobs/medtronic-clinical-specialist-crm-new-brunswick-nj"
-    },
-    {
-        "title": "CRM Localization Specialist (Hungarian language)",
-        "company": "Medier ",
-        "location": "Remote ",
-        "link": "/remote-jobs/medier-crm-localization-specialist-hungarian-language"
-    },
-    {
-        "title": "Croatian CRM Content Localization Specialist",
-        "company": "Medier ",
-        "location": "Remote ",
-        "link": "/remote-jobs/medier-croatian-crm-content-localization-specialist"
-    },
-    {
-        "title": "CRM Manager",
-        "company": "Goodjuju Marketing ",
-        "location": "Lehi, UT USA ",
-        "link": "/remote-jobs/goodjuju-marketing-crm-manager"
-    },
-    {
-        "title": "Remote Customer Support Representative (Honduras)",
-        "company": "Flight CX ",
-        "location": "Remote ",
-        "link": "/remote-jobs/flight-cx-remote-customer-support-representative-honduras"
-    },
-    {
-        "title": "Remote Travel Booking Agent",
-        "company": "HB Travels ",
-        "location": "Massachusetts ",
-        "link": "/remote-jobs/hb-travels-remote-travel-booking-agent"
-    },
-    {
-        "title": "Customer Support and Help Desk Leader",
-        "company": "The Land Administration Company ",
-        "location": "Canada ",
-        "link": "/remote-jobs/the-land-administration-company-customer-support-and-help-desk-leader"
-    },
-    {
-        "title": "Customer Success Representative",
-        "company": "Subbly ",
-        "location": "Edinburgh, Scotland ",
-        "link": "/remote-jobs/subbly-customer-success-representative"
-    },
-    {
-        "title": "US ONLY! Learn on your time!! - Customer Support! $16+/hour - Weekly Pay",
-        "company": "Omni Interactions ",
-        "location": "Texas ",
-        "link": "/remote-jobs/omni-interactions-us-only-learn-on-your-time-customer-support-16-hour-weekly-pay"
-    },
-    {
-        "title": "Sr. Customer Love Engineer - EMEA",
-        "company": "Chili Piper ",
-        "location": "Remote First ",
-        "link": "/remote-jobs/chili-piper-sr-customer-love-engineer-emea"
-    },
-    {
-        "title": "Invoice Clerk",
-        "company": "Dram Industry LLc ",
-        "location": "TX, USA ",
-        "link": "/remote-jobs/dram-industry-llc-invoice-clerk"
-    },
-    {
-        "title": "Customer Success Manager",
-        "company": "Ciloo Inc. ",
-        "location": "Delaware, United States ",
-        "link": "/remote-jobs/ciloo-inc-customer-success-manager"
-    },
-    {
-        "title": "Technical Customer Support (English + [Other Language], UTC-4 or UTC-3)",
-        "company": "Crisp ",
-        "location": "Nantes, France ",
-        "link": "/remote-jobs/crisp-technical-customer-support-english-other-language-utc-4-or-utc-3"
-    },
-    {
-        "title": "Freelancer Kundenberater/in (m/w/d) Inbound Mobilfunk / Prepaid",
-        "company": "hey contact heroes GmbH ",
-        "location": "Germany Hamburg ",
-        "link": "/remote-jobs/hey-contact-heroes-gmbh-freelancer-kundenberater-in-m-w-d-inbound-mobilfunk-prepaid"
+        "title": "Senior Brand Designer",
+        "company": "XXIX ",
+        "location": "New York City ",
+        "link": "/remote-jobs/xxix-senior-brand-designer"
     },
     {
         "title": "Hardware & Firmware Engineer (Contract) \u2013 V0 & V1 Pilots",
@@ -814,6 +1000,12 @@
         "company": "NewtonX ",
         "location": "New York, NY ",
         "link": "/remote-jobs/newtonx-e-commerce-strategic-advisor"
+    },
+    {
+        "title": "Senior Independent Product Manager/Product Designer ($90-$170/hr)",
+        "company": "A.Team ",
+        "location": "NYC, SF, and TLV ",
+        "link": "/remote-jobs/a-team-senior-independent-product-manager-product-designer-90-170-hr"
     },
     {
         "title": "Account Executive, MM/ENT",
@@ -862,65 +1054,5 @@
         "company": "Wealthbox CRM ",
         "location": "Remote ",
         "link": "/remote-jobs/wealthbox-crm-qa-analyst"
-    },
-    {
-        "title": "Senior Independent Product Manager/Product Designer ($90-$170/hr)",
-        "company": "A.Team ",
-        "location": "NYC, SF, and TLV ",
-        "link": "/remote-jobs/a-team-senior-independent-product-manager-product-designer-90-170-hr"
-    },
-    {
-        "title": "Director of E-commerce and Technology (Remote)",
-        "company": "Valentina Kova ",
-        "location": "New York ",
-        "link": "/remote-jobs/valentina-kova-director-of-e-commerce-and-technology-remote"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "Marketerx ",
-        "location": "Nashville, TN ",
-        "link": "/remote-jobs/marketerx-senior-devops-engineer"
-    },
-    {
-        "title": "Senior DevOps Engineer (AWS)",
-        "company": "Proxify AB ",
-        "location": "Sweden ",
-        "link": "/remote-jobs/proxify-ab-senior-devops-engineer-aws-5"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "Lemon.io ",
-        "location": "New York, NY ",
-        "link": "/remote-jobs/lemon-io-senior-devops-engineer-1"
-    },
-    {
-        "title": "Frontend Engineer",
-        "company": "Mobena ",
-        "location": "New York, NY ",
-        "link": "/remote-jobs/mobena-frontend-engineer"
-    },
-    {
-        "title": "Senior Frontend Developer",
-        "company": "Sanctuary Computer ",
-        "location": "New York City ",
-        "link": "/remote-jobs/sanctuary-computer-senior-frontend-developer"
-    },
-    {
-        "title": "React Native Developer",
-        "company": "Toptal ",
-        "location": "Remote ",
-        "link": "/remote-jobs/toptal-react-native-developer"
-    },
-    {
-        "title": "Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
-        "company": "LLCU University ",
-        "location": "Florida ",
-        "link": "/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist"
-    },
-    {
-        "title": "Software Engineer, iOS Core Product",
-        "company": "Speechify Inc ",
-        "location": "Florida ",
-        "link": "/remote-jobs/speechify-inc-software-engineer-ios-core-product"
     }
 ]

@@ -1,6 +1,15 @@
 from playwright.sync_api import sync_playwright
 import json
 
+def clean_text(text):
+    text = text.replace("/", " ")
+
+    special = "!.,()?"
+
+    for char in special:
+        text = text.replace(char, "")
+    return text.lower().split(" ")
+
 def run():
     with sync_playwright() as p:
 
@@ -37,11 +46,18 @@ def run():
         print("Finished! Saved jobs")
         browser.close()
 
+        inverted_index = {}
+
+        for index, job in enumerate(all_jobs):
+            words = clean_text(job['title'])
+
+            for word in words:
+                if word not in inverted_index:
+                    inverted_index[word] = [index]
+                else:
+                    inverted_index[word].append(index)
+
+        print(inverted_index)
 
 if __name__ == "__main__":
     run()
-
-
-def clean_text(text):
-    new_text = text.lower().replace("/", " ")
-
