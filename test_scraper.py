@@ -1,6 +1,30 @@
 from playwright.sync_api import sync_playwright
 import json
 
+def search(query):
+    query_words = clean_text(query)
+
+    first_word = query_words[0]
+    results = set(inverted_index.get(first_word, []))
+
+    for word in query_words[1:]:
+            id = set(inverted_index.get(word, []))
+            results = results & id
+    return list(results)
+
+
+
+    
+
+def clean_text(text):
+    text = text.replace("/", " ")
+
+    special = "!.,()?"
+
+    for char in special:
+        text = text.replace(char, "")
+    return text.lower().split(" ")
+
 
 def run():
     with sync_playwright() as p:
@@ -38,6 +62,7 @@ def run():
         print("Finished! Saved jobs")
         browser.close()
 
+        global inverted_index
         inverted_index = {}
 
         for index, job in enumerate(all_jobs):
@@ -49,35 +74,19 @@ def run():
                 else:
                     inverted_index[word].append(index)
 
-    def search(query):
-        query_words = clean_text(query)
 
-        first_word = query_words[0]
-        results = set(inverted_index.get(first_word, []))
-        print(results)
+    while True:
+        query = input("Search for a job (or exit): ").lower()
+        if query == "exit":
+            break
 
-        for word in query_words[1:]:
-              if word in inverted_index:
-                  id = set(inverted_index.get(word, []))
-                  results = results & id
-        return list(results)
-                            
-        
+        matches = search(query)
+        print(f"Found {len(matches)} jobs")
 
-    search("senior python")
-
-
-
-    
-
-def clean_text(text):
-    text = text.replace("/", " ")
-
-    special = "!.,()?"
-
-    for char in special:
-        text = text.replace(char, "")
-    return text.lower().split(" ")
+        for index in matches:
+            job = all_jobs[index]
+            print(f"{job['title']} @ {job['company']}, {job['location']} Link: {job['link']}")
+            print("-" * 20)
 
 
 if __name__ == "__main__":
