@@ -1,14 +1,6 @@
 from playwright.sync_api import sync_playwright
 import json
 
-def clean_text(text):
-    text = text.replace("/", " ")
-
-    special = "!.,()?"
-
-    for char in special:
-        text = text.replace(char, "")
-    return text.lower().split(" ")
 
 def run():
     with sync_playwright() as p:
@@ -57,7 +49,36 @@ def run():
                 else:
                     inverted_index[word].append(index)
 
-        print(inverted_index)
+    def search(query):
+        query_words = clean_text(query)
+
+        first_word = query_words[0]
+        results = set(inverted_index.get(first_word, []))
+        print(results)
+
+        for word in query_words[1:]:
+              if word in inverted_index:
+                  id = set(inverted_index.get(word, []))
+                  results = results & id
+        return list(results)
+                            
+        
+
+    search("senior python")
+
+
+
+    
+
+def clean_text(text):
+    text = text.replace("/", " ")
+
+    special = "!.,()?"
+
+    for char in special:
+        text = text.replace(char, "")
+    return text.lower().split(" ")
+
 
 if __name__ == "__main__":
     run()
